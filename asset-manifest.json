@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VANcation-real/static/css/main.d21555bf.css",
+    "main.js": "/VANcation-real/static/js/main.9521d845.js",
+    "static/media/home-hero-image.png": "/VANcation-real/static/media/home-hero-image.6083b7162a33c89b46f6.png",
+    "static/media/about-hero.png": "/VANcation-real/static/media/about-hero.4816dc2e0f3521db48f8.png",
+    "index.html": "/VANcation-real/index.html",
+    "main.d21555bf.css.map": "/VANcation-real/static/css/main.d21555bf.css.map",
+    "main.9521d845.js.map": "/VANcation-real/static/js/main.9521d845.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d21555bf.css",
+    "static/js/main.9521d845.js"
+  ]
+}
