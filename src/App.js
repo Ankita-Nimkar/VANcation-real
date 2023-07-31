@@ -20,7 +20,7 @@ import "./server";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/VANcation-real">
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<Home />} />
