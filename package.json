@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "homepage": "https://Ankita-Nimkar.github.io/VANcation-real",
-  "private": true,
+  "private": false,
   "dependencies": {
     "bootstrap": "^4.1.1",
     "localforage": "^1.10.0",
